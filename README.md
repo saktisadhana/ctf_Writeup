@@ -9,7 +9,7 @@ Below are the list of challenges that i solved!
   <br>
 
   | Challenge | Category | AI Status |
-  | :--- | :--- | :--- | :---: |
+  | :--- | :--- | :--- |
   | iitsese | ![](https://img.shields.io/badge/Webex-blue) | ![](https://img.shields.io/badge/AI-Assisted-brightgreen) |
   | Mistakez | ![](https://img.shields.io/badge/Forens-orange) | ![](https://img.shields.io/badge/AI-Assisted-lightgrey) |
   | HarderBetterFasterStronger | ![](https://img.shields.io/badge/Reveng-red) | ![](https://img.shields.io/badge/AI-Assisted-brightgreen)
@@ -21,7 +21,7 @@ Below are the list of challenges that i solved!
   <br>
 
   | Challenge | Category | AI Status |
-  | :--- | :--- | :--- | :---: |
+  | :--- | :--- | :--- |
   | Deadsick | ![](https://img.shields.io/badge/Reveng-red) | ![](https://img.shields.io/badge/AI-Assisted-lightgrey) |
   | Arknights | ![](https://img.shields.io/badge/Webex-blue) | ![](https://img.shields.io/badge/AI-Assisted-brightgreen) |
   | know the trick | ![](https://img.shields.io/badge/Crypto-purple) | ![](https://img.shields.io/badge/AI-Assisted-brightgreen) |
