@@ -13,7 +13,7 @@ Below are the list of challenges that i solved!
 | Challenge | Category | AI Status |
 | :--- | :--- | :--- |
 | iitsese | ![](https://img.shields.io/badge/Webex-blue) | ![](https://img.shields.io/badge/AI--Assisted-brightgreen) |
-| Mistakez | ![](https://img.shields.io/badge/Forens-orange) | ![](https://img.shields.io/badge/AI--None-lightgrey) |
+| Mistakez | ![](https://img.shields.io/badge/Forens-orange) | ![](https://img.shields.io/badge/AI--Assisted-brightgreen) |
 | HarderBetterFasterStronger | ![](https://img.shields.io/badge/Reveng-red) | ![](https://img.shields.io/badge/AI--Assisted-brightgreen) |
 
 </details>
@@ -26,7 +26,7 @@ Below are the list of challenges that i solved!
 
 | Challenge | Category | AI Status |
 | :--- | :--- | :--- |
-| Deadsick | ![](https://img.shields.io/badge/Reveng-red) | ![](https://img.shields.io/badge/AI--None-lightgrey) |
+| Deadsick | ![](https://img.shields.io/badge/Reveng-red) | ![](https://img.shields.io/badge/AI--Assisted-brightgreen) |
 | Arknights | ![](https://img.shields.io/badge/Webex-blue) | ![](https://img.shields.io/badge/AI--Assisted-brightgreen) |
 | know the trick | ![](https://img.shields.io/badge/Crypto-purple) | ![](https://img.shields.io/badge/AI--Assisted-brightgreen) |
 | The Abandoned Ones | ![](https://img.shields.io/badge/OSINT-yellow) | ![](https://img.shields.io/badge/AI--None-lightgrey) |
